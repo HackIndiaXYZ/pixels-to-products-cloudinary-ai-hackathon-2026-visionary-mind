@@ -146,3 +146,6 @@ npm run dev
 
 \- User-provided custom scene prompts instead of fixed presets
 
+Demo video link:
+https://youtu.be/I-wQNxgoxq8
+
